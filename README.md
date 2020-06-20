@@ -1,3 +1,7 @@
 # C++
 
-Learning the language c++.
+Learning the language _c++_.
+
+## License
+
+[MIT](./LICENSE)
