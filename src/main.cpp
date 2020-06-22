@@ -3,7 +3,12 @@
 using namespace std;
 
 int main() {
-  cout<<"Learning c++\n";
+  char name[32];
+
+  cout<<"Your name: ";
+  cin>>name;
+
+  cout<<"✨ Hi "<<name<<"\n";
 
   return 0;
 }
