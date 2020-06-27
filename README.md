@@ -38,6 +38,10 @@ A variable allows to store data, these are usually characters, integers or decim
 | Integers      | `int`             |
 | Decimals      | `float`, `double` |
 
+> __Notes :__
+>
+> * `float` and `double` variables both store decimals; your choice will depend on the _precision level of the decimals_.
+
 ```c++
   #include <iostream>
 
