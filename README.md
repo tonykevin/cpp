@@ -24,9 +24,9 @@ Create a file with the extension `.cpp` and write the following lines of code:
 
 ```
 
-Then run the application with [gcc and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html), but feel free to use other tools as you like.
+Then run the application with [Gcc and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html), but feel free to use other tools as you like.
 
-Congratulations! :tada: :tada: has written your first lines of code in __c++__. Maybe you still do not understand the instructions of the program well, but little by little it will discover a language to communicate with computers. lets' start! :rocket:
+Congratulations! :tada: :tada: has written your first lines of code in __C++__. Maybe you still do not understand the instructions of the program well, but little by little it will discover a language to communicate with computers. lets' start! :rocket:
 
 ## Variables
 
@@ -38,9 +38,11 @@ A variable allows to store data, these are usually characters, integers or decim
 | Integers      | `int`             |
 | Decimals      | `float`, `double` |
 
-> __Notes :__
+> __Note :__
 >
-> * `float` and `double` variables both store decimals; your choice will depend on the _precision level of the decimals_.
+> `float` and `double` variables both store decimals; your choice will depend on the _precision level of the decimals_.
+
+Definition of variable types:
 
 ```c++
   #include <iostream>
